@@ -1,7 +1,7 @@
 # Reducing Missed Appointments in an Outpatient Clinic  
 *A Healthcare Data Analytics Case Study*
 
-![Dashboard Overview](screenshots/Dashboard.png)
+![Dashboard Overview](screenshots/dashboard.png)
 ---
 
 ## Project Overview
@@ -91,7 +91,7 @@ These measures formed the foundation for all analysis and visualizations.
 ## Analysis & Visualizations
 
 ### 1. Overall Missed Appointment Rate
-![KPI Cards](screenshots/missed appointment.png)
+![KPI Cards](screenshots/missed_appointment_rate.png)
 
 Approximately **20% of all outpatient appointments were missed**, highlighting a significant operational challenge.
 
@@ -105,7 +105,7 @@ Appointments that received SMS reminders showed a higher missed appointment rate
 ---
 
 ### 3. Waiting Time Impact
-![Waiting Time Analysis](screenshots/waiting time.png)
+![Waiting Time Analysis](screenshots/waiting_time.png)
 
 Waiting time between scheduling and appointment date was the strongest predictor of missed appointments. Longer waiting periods were associated with significantly higher no-show rates, even when SMS reminders were sent.
 
@@ -119,7 +119,7 @@ Patients aged **18–35** had the highest missed appointment rates, while patien
 ---
 
 ### 5. Underlying Medical Conditions
-![Underlying Conditions](screenshots/underlying condition.png)
+![Underlying Conditions](screenshots/underlying_condition.png)
 
 Patients without chronic conditions were more likely to miss appointments compared to those managing ongoing health issues. Alcoholism was associated with the highest missed appointment rate among the conditions analyzed.
 
