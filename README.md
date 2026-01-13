@@ -1,7 +1,7 @@
 # Reducing Missed Appointments in an Outpatient Clinic  
 *A Healthcare Data Analytics Case Study*
 
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](screenshots/missed_appointments_dashboard.png)
 ---
 
 ## Project Overview
